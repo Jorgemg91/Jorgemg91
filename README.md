@@ -5,7 +5,7 @@
 
 ## Sobre mi
 
- -Soy estudiante FP de dedesarrollo de aplicaciones Web 
+ -Soy estudiante FP de desarrollo de aplicaciones Web 
  -Vivo en Toledo recientemente mudado de Madrid
 
 
